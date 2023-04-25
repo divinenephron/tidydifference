@@ -18,3 +18,5 @@ Imports:
 Depends: 
     R (>= 3.5.0)
 LazyData: true
+URL: https://github.com/divinenephron/tidydifference
+BugReports: https://github.com/divinenephron/tidydifference/issues
